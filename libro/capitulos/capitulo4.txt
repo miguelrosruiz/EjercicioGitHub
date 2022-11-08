@@ -2,4 +2,4 @@ En este capitulo veremos como usar GitHub para alojar repositorios
 en remoto.
 
 Libro harry potter 1
-Libro harry potter 2
+Libro harry potter 2.
